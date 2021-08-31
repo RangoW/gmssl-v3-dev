@@ -18,7 +18,7 @@
 #define HEADER_SDF_METH_H
 
 
-#include <openssl/sdf.h>
+#include "sdf.h"
 
 
 typedef int (*SDF_OpenDevice_FuncPtr)(
